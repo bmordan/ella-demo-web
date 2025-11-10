@@ -29,9 +29,9 @@ export const SelectUser = () => {
     };
 
   return (
-    <div>
-      <h1 className="text-center text-2xl font-bold">Select User</h1>
-      <ul className="mt-20 space-y-2">
+    <div className="py-20 bg-amber-50 min-h-screen bg-image-food">
+      <h1 className="font-serif text-shadow-sm mt-2 text-center text-2xl font-bold text-sky-900 px-4 py-2 rounded-md bg-sky-100 outline outline-sky-900 relative z-2 max-w-120 mx-auto">Select User</h1>
+      <ul className="mt-20 space-y-2 max-w-120 mx-auto relative z-2">
         {users.map((user, i) => {
             const isSelected = selectedUser?.id === user.id;
             return (
@@ -41,10 +41,10 @@ export const SelectUser = () => {
                     className={`
                         text-left text-lg px-4 py-3 rounded-lg cursor-pointer
                         transition-all duration-200 ease-in-out
-                        border-2
+                        border-2 shadow-sm
                         ${isSelected 
                             ? 'bg-blue-500 text-white border-blue-600 shadow-lg' 
-                            : 'bg-white text-gray-800 border-gray-200 hover:bg-gray-50 hover:border-blue-300 hover:shadow-md'
+                            : 'bg-white text-gray-800 border-amber-200 hover:bg-amber-50 hover:border-amber-500 hover:shadow-md'
                         }
                     `}
                 >
