@@ -6,4 +6,4 @@ npm run dev
 
 Start the vite server and visit `http://localhost:5173`.
 
-![a capture of the web app](https://private-user-images.githubusercontent.com/4499581/512424303-2d5b2f32-0b6b-4bc3-9f21-63f54658c431.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI4MTUzNjksIm5iZiI6MTc2MjgxNTA2OSwicGF0aCI6Ii80NDk5NTgxLzUxMjQyNDMwMy0yZDViMmYzMi0wYjZiLTRiYzMtOWYyMS02M2Y1NDY1OGM0MzEucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MTExMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTExMTBUMjI1MTA5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NGVlYjEzOGVkOWJlNDJlMDk0YzViNmVhZTZlMDE1YjIxZjE1NDFiMjY0OWQ0YWVmYzYzMWJiYWNhZDQ4ZDc4MSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.yZmh5uK7vbYcnohyqro3MYOjOSRfzS5ysXShR3nsUcE)
+<img width="1464" height="955" alt="Screenshot 2025-11-10 at 22 48 57" src="https://github.com/user-attachments/assets/7310744e-18be-4efe-abee-1c67a3e9372f" />
